@@ -31,6 +31,6 @@
   },
   "homepage": "https://github.com/SlotTeam/slot-demos",
     "dependencies":{
-        "slot-framework": "0.0.1"
+        "slot-framework": ">= 0.0.1"
     }
 }

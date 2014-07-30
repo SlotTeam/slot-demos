@@ -1,0 +1,36 @@
+{
+  "name": "slot-demos",
+  "version": "0.0.0",
+  "description": "A demo web project developed using Slot Framework, many samples of how to use Slot features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SlotTeam/slot-demos.git"
+  },
+  "keywords": [
+    "framework",
+    "web",
+    "development",
+    "slot",
+    "fragment",
+    "bootstrap",
+    "zurb",
+    "jquery",
+    "html",
+    "html5",
+    "css",
+    "demo"
+  ],
+  "author": "Carlos Echeverria <SlotFramework@gmail.com> (https://github.com/cecheverria)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SlotTeam/slot-demos/issues"
+  },
+  "homepage": "https://github.com/SlotTeam/slot-demos",
+    "dependencies":{
+        "slot-framework": "0.0.1"
+    }
+}
